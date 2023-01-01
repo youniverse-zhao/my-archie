@@ -101,4 +101,10 @@
 	<script src="{{ $.Site.BaseURL }}{{ . }}"></script>
 	{{- end }}
 	{{- end }}
+  
+  <!-- Math Equation Support -->
+  <!-- Credit: https://geoffruddock.com/math-typesetting-in-hugo/ -->
+  {{ if .Params.mathjax }}
+    {{ partial "mathjax_support.html" . }}
+  {{ end }}
 </head>

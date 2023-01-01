@@ -11,6 +11,7 @@ Forked from [Ezhil Theme](https://github.com/vividvilla/ezhil)
 ![](/images/archie-dark.png)
 ## Feature
 - Google Analytics 4 
+- Math Equation Support (Credit: [Geoff Ruddock](https://geoffruddock.com/))
 - Callouts
 - Tags
 - Auto Dark Mode(based on system theme)
@@ -38,11 +39,12 @@ date:
 tldr: (optional)
 draft: true/false (optional)
 tags: [tag names] (optional)
+mathjax: true/false (optional)
 ---
 ```
 
 ## Credits
-Forked from [Ezhil Theme](https://github.com/vividvilla/ezhil) and Licensed under MIT License
+Forked from the original [Archie Theme](https://github.com/athul/archie) which was forked from [Ezhil Theme](https://github.com/vividvilla/ezhil) and Licensed under MIT License
 Inspired by design of blog.jse.li
 
 ----

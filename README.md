@@ -10,7 +10,7 @@ Forked from [Ezhil Theme](https://github.com/vividvilla/ezhil)
 ![](/images/theme.png)
 ![](/images/archie-dark.png)
 ## Feature
-- Google Analytics Script
+- Google Analytics 4 
 - Callouts
 - Tags
 - Auto Dark Mode(based on system theme)
@@ -23,7 +23,7 @@ In your Hugo website directory, create a new folder named theme and clone the re
 ```bash
 $ mkdir themes
 $ cd themes
-$ git clone https://github.com/athul/archie.git
+$ git clone https://github.com/youniverse-zhao/my-archie.git
 ```
 Edit the `config.toml` file with `theme="archie"`
 For more information read the official [setup guide](https://gohugo.io/installation/) of Hugo.
